@@ -12,3 +12,6 @@ body {
   text-rendering: optimizeLegibility;
   hyphens: auto;
 }
+h1{
+  text-align:center;
+}
